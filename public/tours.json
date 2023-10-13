@@ -1,0 +1,153 @@
+[
+    {
+      "tours_id": "01",
+      "title": "Sajek Valley",
+      "img": "https://miro.medium.com/v2/resize:fit:1400/1*OVzL5R-414Dr5sS6Oeayjw.jpeg",
+      "price": "150.00",
+      "description": "Explore the breathtaking beauty of Sajek Valley in the Chittagong Hill Tracts region.",
+      "facility": [
+        {
+          "name": "Accommodation",
+          "details": "Comfortable lodges with picturesque views."
+        },
+        {
+          "name": "Transportation",
+          "details": "Round-trip transportation included."
+        },
+        {
+          "name": "Guided Tours",
+          "details": "Experienced guides to show you around."
+        },
+        {
+          "name": "Meals",
+          "details": "Delicious local cuisine provided."
+        }
+      ]
+    },
+    {
+      "tours_id": "02",
+      "title": "Bandarban",
+      "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup-dc/news/fRpu7V0HrMymv4FUw3zNukBxqEwXp7JkpXWnQX3x.jpeg",
+      "price": "120.00",
+      "description": "Experience the natural wonders of Bandarban, including lush green hills and indigenous culture.",
+      "facility": [
+        {
+          "name": "Accommodation",
+          "details": "Various lodging options available."
+        },
+        {
+          "name": "Transportation",
+          "details": "Transportation to key attractions."
+        },
+        {
+          "name": "Guided Tours",
+          "details": "Knowledgeable guides for your journey."
+        },
+        {
+          "name": "Meals",
+          "details": "Taste local delicacies on your trip."
+        }
+      ]
+    },
+    {
+      "tours_id": "03",
+      "title": "Saint Martin",
+      "img": "https://cdn.britannica.com/87/93987-050-779DFE3F/Boats-harbour-Marcel-Cove-Lesser-Antilles-Saint-Martin.jpg",
+      "price": "105.00",
+      "description": "Discover the idyllic beauty of Saint Martin Island with its pristine beaches and clear waters.",
+      "facility": [
+        {
+          "name": "Accommodation",
+          "details": "Beachfront resorts for a tropical stay."
+        },
+        {
+          "name": "Transportation",
+          "details": "Ferry services to the island."
+        },
+        {
+          "name": "Guided Tours",
+          "details": "Explore hidden gems with local guides."
+        },
+        {
+          "name": "Meals",
+          "details": "Fresh seafood and local cuisine."
+        }
+      ]
+    },
+    {
+      "tours_id": "04",
+      "title": "Tanguar Haor",
+      "img": "https://ruchiexplorelimitless.com/images/blog/1592080801.jpg",
+      "price": "80.00",
+      "description": "Experience the unique wetland ecosystem of Tanguar Haor in northeastern Bangladesh.",
+      "facility": [
+        {
+          "name": "Accommodation",
+          "details": "Rustic cottages overlooking the wetlands."
+        },
+        {
+          "name": "Transportation",
+          "details": "Boat rides to explore the haor."
+        },
+        {
+          "name": "Guided Tours",
+          "details": "Local naturalists to guide you."
+        },
+        {
+          "name": "Meals",
+          "details": "Taste local flavors by the haor."
+        }
+      ]
+    },
+    {
+      "tours_id": "05",
+      "title": "Sada Pathor",
+      "img": "https://vromonguide.com/wp-content/uploads/bholaganj-sylhet-1-770x420.jpg",
+      "price": "45.00",
+      "description": "Explore the natural beauty of Sada Pathor and its limestone formations in Sylhet.",
+      "facility": [
+        {
+          "name": "Accommodation",
+          "details": "Guesthouses with a view of the hills."
+        },
+        {
+          "name": "Transportation",
+          "details": "Local transportation to the site."
+        },
+        {
+          "name": "Guided Tours",
+          "details": "Local guides for informative tours."
+        },
+        {
+          "name": "Meals",
+          "details": "Savor local cuisine in the region."
+        }
+      ]
+    },
+    {
+      "tours_id": "06",
+      "title": "Ahsan Manzil Museum",
+      "img": "https://call4tours.com/uploads/0000/104/2020/03/19/call4tours-05-4.jpg",
+      "price": "25.00",
+      "description": "Visit the historic Ahsan Manzil Museum, a symbol of rich Bangladeshi heritage.",
+      "facility": [
+        {
+          "name": "Access",
+          "details": "Entry ticket included."
+        },
+        {
+          "name": "Guided Tours",
+          "details": "Learn about the history and culture."
+        },
+        {
+          "name": "Cafeteria",
+          "details": "Cafeteria for refreshments."
+        },
+        {
+          "name": "Souvenirs",
+          "details": "Shop for memorabilia."
+        }
+      ]
+    }
+  ]
+  
